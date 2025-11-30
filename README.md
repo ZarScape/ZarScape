@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZarScape/ZarScape/refs/heads/main/images/ZarScape/github-card.png" width="100%" alt="Banner" />
+</div>
 
-<!--
-**ZarScape/ZarScape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Muhammad Abuzar (ZarScape) 👋
+### I'm a Developer with a passion for creating clean, scalable, and high-performance software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 **Passionate:** Discord Bot & Full Stack Developer
+* 📍 **Based in:** Islamabad, Pakistan 🇵🇰
+* 🧰 **Specializing in:**
+    * Discord bots, APIs & automation tools
+    * Full-stack web development (Node.js, React, MongoDB)
+    * Custom integrations & developer tools
+
+---
