@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZarScape/ZarScape/refs/heads/main/images/ZarScape/github-card.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/ZarScape/ZarScape/refs/heads/main/images/ZarScape/banner.png" width="100%" alt="Banner" />
 </div>
 
 # Hi, I'm Muhammad Abuzar (ZarScape) 👋
