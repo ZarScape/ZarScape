@@ -13,5 +13,3 @@
     * Discord bots, APIs & automation tools
     * Full-stack web development (Node.js, React, MongoDB)
     * Custom integrations & developer tools
-
----
