@@ -5,6 +5,8 @@
 # Hi, I'm Muhammad Abuzar (ZarScape) 👋
 ### I'm a Developer with a passion for creating clean, scalable, and high-performance software.
 
+<p align="left">Profile Views: <img src="https://komarev.com/ghpvc/?username=ZarScape&label=&color=0e75b6&style=flat" alt="ZarScape profile views" /></p>
+
 ---
 
 * 🤖 **Passionate:** Discord Bot & Full Stack Developer
